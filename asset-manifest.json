@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/consultation-admin-public/static/css/main.fb60f133.css",
-    "main.js": "/consultation-admin-public/static/js/main.d1e4b229.js",
+    "main.js": "/consultation-admin-public/static/js/main.73ecb909.js",
     "index.html": "/consultation-admin-public/index.html",
     "main.fb60f133.css.map": "/consultation-admin-public/static/css/main.fb60f133.css.map",
-    "main.d1e4b229.js.map": "/consultation-admin-public/static/js/main.d1e4b229.js.map"
+    "main.73ecb909.js.map": "/consultation-admin-public/static/js/main.73ecb909.js.map"
   },
   "entrypoints": [
     "static/css/main.fb60f133.css",
-    "static/js/main.d1e4b229.js"
+    "static/js/main.73ecb909.js"
   ]
 }
