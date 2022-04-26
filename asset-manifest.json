@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consultation-admin/static/css/main.fb60f133.css",
+    "main.js": "/consultation-admin/static/js/main.0d44164f.js",
+    "index.html": "/consultation-admin/index.html",
+    "main.fb60f133.css.map": "/consultation-admin/static/css/main.fb60f133.css.map",
+    "main.0d44164f.js.map": "/consultation-admin/static/js/main.0d44164f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb60f133.css",
+    "static/js/main.0d44164f.js"
+  ]
+}
